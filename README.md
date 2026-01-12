@@ -10,10 +10,12 @@ Solutions are organized into folders by month and day. Each problem folder typic
 *   ...and so on.
 
 
-## My LeetCode Stats
+## 🧠 LeetCode Stats
 
-<!-- A common practice is to use a dynamic badge here, which automatically updates your stats. -->
-[![Anlin_Abishek's LeetCode Stats]![](https://leetcard.Anlin_Abishek.cool/Anlin_Abishek?animation=false)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Anlin_Abishek?theme=dark&font=Montagu%20Slab&ext=heatmap" />
+  
+</p>
 
 ---
 *No hurry, but no rest.*
