@@ -6,7 +6,7 @@ This repository contains my personal solutions for the [LeetCode Daily Coding Ch
 
 Solutions are organized into folders by month and day. Each problem folder typically contains the solution file .
 
-*   [**January 2026**](/January-2026)
+*   [**January 2026**](/January)
 *   ...and so on.
 
 
